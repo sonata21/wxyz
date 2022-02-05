@@ -1,0 +1,123 @@
+
+		 .secondarea{
+			background:url("Untitled design.png");
+			}
+		.text1{
+			font-family:centour;
+			color:white;
+			font-size:70px;
+			text-align:center;
+			margin-top:150px;
+			line-height:50px;
+			margin-bottom:150px;}
+		.secondarea h1{
+			font-size:50px;
+			font-family:gabriola;
+			color:white;
+			text-align:center;
+			}
+		
+		.thirdarea img{
+		 	height:auto;
+			width:100%;
+			padding-left:100px;
+			margin-top:50px;}
+		.thirdarea h1{
+			font-family:centour;
+			font-size:36px;
+			text-align:center;
+			padding-top:60px;}
+		.thirdarea h4{
+			font-family:comic sans ms;
+			margin: 30px 50px 90px 30px;
+			font-size:16px;
+			margin-top:100px;}
+		
+		.sarea{
+			
+			}
+		.sarea p{
+			font-size:50px;
+			font-family:agency fb;
+			text-align:center;
+			padding:0 40px;
+			border-radius:50px;
+			box-shadow:0 5px 10px 0px #a5a0a0;
+			}
+			
+		.tarea{
+			padding:50px 0;}
+			.tarea img{
+				height:240px;
+				width:240px;
+				border-radius:50%;
+				/*transition:transform 1s  linear;*/}
+			.tarea img:hover{
+					/*transform:scale(1.1,1.1);*/
+					box-shadow:0 5px 20px 0px grey;}
+		
+		.tarea p{
+			font-size:30px;
+			font-family:agency fb;
+			text-align:center;}
+		
+		.tarea h6{	
+			margin:0 50px;
+			font-size:16px;
+			font-family:gabriola;
+			line-height:20px;
+			text-align:center;}
+		.fourtharea{
+			
+			padding:50px 0;
+			background:white;
+        		}
+		
+	
+		.fourtharea h2{
+			text-align:center;
+			margin:20px 2px;
+			font-family:agency fb;
+			font-size:25px;}
+		
+		.fourtharea img{
+			height:100%;
+			width:100%;
+			}	
+		.box{
+			
+			background:white;
+			margin:30px;
+			box-shadow:5px 5px 20px 0px grey;
+			overflow:hidden;
+			}
+		
+			.box img{
+				transition:transform 1s  linear;
+				}
+			.box img:hover{
+				transform:scale(1.1,1.1);}
+		
+		
+		.bottomarea{
+			background:#443131;
+			padding:50px 0;
+			}
+		
+		.bottomarea img{
+			height:180px;
+			width:180px;
+			margin:0 20px 80px 20px;
+			line-height:20px;
+			}
+		.bottomarea h1{
+			font-size:30px;
+			font-family:agency fb;
+			color:white;}
+		.bottomarea p{
+			font-size:20px;
+			font-family:agency fb;
+			color:white;
+			line-height:20px;}
+		
+		

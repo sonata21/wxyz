@@ -1,0 +1,47 @@
+.secondarea{		
+	background:url("Untitled design.png");   
+	}
+.text1{
+	font-family:centour;
+	color:white;
+	font-size:70px;
+	text-align:center;
+	margin-top:150px;
+	margin-bottom:100px;
+	}
+		.thirdarea{
+			padding:50px 0;
+		}
+		
+		.box{
+			margin:15px;
+			}
+		.box img{
+			height:300px;
+			width:250px;}
+			
+		.bigbox img{
+			height:350px;
+			width:550px;}
+		
+			.bottomarea{
+				background:#443131;
+				padding:50px 0;
+				}
+			
+			.bottomarea img{
+				height:180px;
+				width:180px;
+				margin:0 20px 80px 20px;
+				line-height:20px;
+				}
+			.bottomarea h1{
+				font-size:30px;
+				font-family:agency fb;
+				color:white;}
+			.bottomarea p{
+				font-size:20px;
+				font-family:agency fb;
+				color:white;
+				line-height:20px;}
+			 

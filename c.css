@@ -1,0 +1,35 @@
+
+		 
+		.thirdarea{
+			padding:100px 0;
+			}
+		
+		.thirdarea h1{
+			font-size:50px;
+			font-family:arial;}
+		.thirdarea p{
+			font-size:20px;
+			font-family:gabriola;
+			text-align:justify;}
+		
+		
+			.bottomarea{
+				background:#443131;
+				padding:50px 0;
+				}
+			
+			.bottomarea img{
+				height:180px;
+				width:180px;
+				margin:0 20px 80px 20px;
+				
+				}
+			.bottomarea h1{
+				font-size:30px;
+				font-family:agency fb;
+				color:white;}
+			.bottomarea p{
+				font-size:20px;
+				font-family:agency fb;
+				color:white;
+				}
