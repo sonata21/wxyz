@@ -9,13 +9,19 @@
 			text-align:center;
 			margin-top:150px;
 			line-height:50px;
-			margin-bottom:150px;}
+			}
 		.secondarea h1{
 			font-size:50px;
 			font-family:gabriola;
 			color:white;
 			text-align:center;
-			}
+			margin-top:10px;
+			margin-bottom:100px;}
+		.nav-link{
+			color:white!important;
+			margin:0 12px;
+			
+		}
 		.thirdarea{
 				margin:20px 0;
 			}
